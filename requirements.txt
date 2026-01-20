@@ -8,4 +8,4 @@ packaging==23.1
 pyshark==0.6
 requests==2.31.0
 termcolor==2.3.0
-urllib3==2.0.4
+urllib3==2.6.3
